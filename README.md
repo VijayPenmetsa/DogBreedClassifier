@@ -12,16 +12,7 @@ The main file is dog_app.ipynb, which is a jupyter notebook containing all the p
 The haarcascades folder holds the xml file for use with the OpenCv face detector class that is used in the notebook. The images folder contains the images used to test the predictions of the final model in the notebook.
 
 ### Dependencies
--opencv-python
--glob
--matplotlib
--numpy
--scipy
--tqdm
--keras
--scikit-learn
--ipykernel
--tensorflow
+opencv, python, glob, matplotlib, numpy, scipy, tqdm, keras, scikit-learn, ipykernel, tensorflow
 
 ### Acknowledgements
 Most ideas for this project have been taken from the lessons on Udacity's DSND program.
